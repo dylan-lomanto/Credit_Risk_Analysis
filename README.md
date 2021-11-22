@@ -92,3 +92,6 @@ Precision (Total): 0.99
 Recall (High Risk): 0.92
 
 Recall (Total): 0.94
+
+### Summary
+The goal of this analysis is to determine which machine learning model is most likely to predict which credit applications should be deemed high risk based on a variety of features.  The most successful model was the Easy Ensemble AdaBoost Classifier, which led in all metrics. It is my recommendation to use this model as it has the fewest results that predict high-risk candidates as low-risk, which are the most dangerous applications for the lender.  

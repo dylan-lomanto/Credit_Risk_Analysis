@@ -8,19 +8,29 @@ This analysis uses a variety of supervised machine learning models to predict cr
 ##### Naive Random Oversampling
 
 ![Naive Random OVersampling](https://user-images.githubusercontent.com/86164867/142918951-238f652c-544e-4435-b8e4-f8ed90aeb48f.PNG)
+
 Accuracy Score: 66.88%
+
 Precision (High Risk): 0.01
+
 Precision (Total): 0.99
+
 Recall (High Risk): 0.69
+
 Recall (Total): 0.64
 
 ##### SMOTE Oversampling
 
 ![SMOTE](https://user-images.githubusercontent.com/86164867/142918874-d032be0d-1edd-41fb-b3b8-51a75dd77761.PNG)
+
 Accuracy Score: 66.34%
+
 Precision (High Risk): 0.01
+
 Precision (Total): 0.99
+
 Recall (High Risk): 0.63
+
 Recall (Total): 0.69
 
 
